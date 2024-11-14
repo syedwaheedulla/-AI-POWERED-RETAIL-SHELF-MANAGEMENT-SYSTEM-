@@ -1,5 +1,3 @@
-### README for GitHub Repository  
-
 # AI-Powered Retail Shelf Management System  
 
 ## 🚀 Project Overview  
