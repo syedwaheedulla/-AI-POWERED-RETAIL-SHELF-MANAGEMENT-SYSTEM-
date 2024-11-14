@@ -64,10 +64,6 @@ Key features include:
 
 ---
 
-## 🤝 Contributors  
-- **Syed Waheedulla** - Data preprocessing, model training, and Streamlit development.  
-
----
 
 ## 📈 Future Scope  
 - Incorporation of advanced models like Gradient Boosting or LSTM for improved temporal forecasting.  
